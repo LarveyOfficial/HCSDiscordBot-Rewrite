@@ -1,0 +1,14 @@
+aiohttp
+async-timeout
+attrs
+certifi
+chardet
+discord.py
+dnspython
+idna
+multidict
+pymongo
+requests
+urllib3
+websockets
+yarl
